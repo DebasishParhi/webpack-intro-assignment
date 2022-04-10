@@ -1,0 +1,17 @@
+.color{
+    color: tomato;
+    text-decoration: underline;
+}
+.image{
+    height: 150px;
+    width: 15%;
+    margin-left: 40%;
+}
+/* .img{
+    height: 100%;
+    width: 100%;
+} */
+
+#text{
+    margin-left: 25%;
+}
